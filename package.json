@@ -4,7 +4,7 @@
   "description": "repositorio alterno de workshop psl",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha -5000"
   },
   "repository": {
     "type": "git",
